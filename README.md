@@ -13,4 +13,4 @@
 ![](https://shanbhag.dev/projects/sonic/10.jpg =250x)
 ![](https://shanbhag.dev/projects/sonic/11.jpg =250x)
 ![](https://shanbhag.dev/projects/sonic/12.jpg =250x)
-![](https://shanbhag.dev/projects/sonic/13.jpg =250x)
+![](https://shanbhag.dev/projects/sonic/13.jpg){width=50% height=50% }
