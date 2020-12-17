@@ -1,0 +1,9 @@
+{
+  apiKey: "AIzaSyBkwOLgQgxxxSXQsLW7d4N34-EyNP5dpHc",
+  authDomain: "sonicpaymentgateway-f1f9f.firebaseapp.com",
+  projectId: "sonicpaymentgateway-f1f9f",
+  storageBucket: "sonicpaymentgateway-f1f9f.appspot.com",
+  messagingSenderId: "1019506829675",
+  appId: "1:1019506829675:web:a1592e0f00ff0f65db042e",
+  measurementId: "G-6QV4R2REG5"
+}

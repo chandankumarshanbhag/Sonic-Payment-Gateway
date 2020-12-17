@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1019506829675-aib43fhfn7tatmfn8i9ln99it3fjkb8a.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1019506829675</string>
+    <string name="google_api_key" translatable="false">AIzaSyDeaOQFKHp6jCA0nuzCDFn_RiX59T8IOBM</string>
+    <string name="google_app_id" translatable="false">1:1019506829675:android:79f672c5f45a6b3cdb042e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDeaOQFKHp6jCA0nuzCDFn_RiX59T8IOBM</string>
+    <string name="google_storage_bucket" translatable="false">sonicpaymentgateway-f1f9f.appspot.com</string>
+    <string name="project_id" translatable="false">sonicpaymentgateway-f1f9f</string>
+</resources>
