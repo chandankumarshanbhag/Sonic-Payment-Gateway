@@ -1,9 +1,7 @@
 # Sonic-Payment-Gatway
 
 
-![](https://shanbhag.dev/projects/sonic/1.jpg)
-![](https://shanbhag.dev/projects/sonic/2.jpg)
-![](https://shanbhag.dev/projects/sonic/3.jpg)
+![](https://shanbhag.dev/projects/sonic/3.jpg){width=250px}
 ![](https://shanbhag.dev/projects/sonic/4.jpg)
 ![](https://shanbhag.dev/projects/sonic/5.jpg)
 ![](https://shanbhag.dev/projects/sonic/6.jpg)
